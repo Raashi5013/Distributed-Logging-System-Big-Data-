@@ -1,1 +1,1 @@
-# EC-Team-40-distributed-logging-system
+Distributed Logging System - Big data project
