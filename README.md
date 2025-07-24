@@ -1,1 +1,1 @@
-# Distributed-Logging-System-Big-Data-
+# EC-Team-40-distributed-logging-system

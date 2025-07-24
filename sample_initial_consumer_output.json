@@ -1,0 +1,666 @@
+[
+{
+  "node_id": 1,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:23.613529"
+},
+{
+  "node_id": 1,
+  "message_type": "REGISTRATION",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:23.614040"
+},
+{
+  "message_type": "REGISTRY",
+  "node_id": 1,
+  "service_name": "Order Service",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:23.629618"
+},
+{
+  "log_id": "31b9cd49-44b9-4cff-b763-cc8021263307",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:23.629618"
+},
+{
+  "log_id": "fd4e0e24-97d6-4b11-80f5-945f94ca1caa",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:24.630811"
+},
+{
+  "node_id": 2,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:26.855434"
+},
+{
+  "node_id": 2,
+  "message_type": "REGISTRATION",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:26.855434"
+},
+{
+  "message_type": "REGISTRY",
+  "node_id": 2,
+  "service_name": "Notification Service",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:26.877546"
+},
+{
+  "log_id": "615f5f76-4ece-4c6b-8f94-9264c78566da",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:26.877546"
+},
+{
+  "log_id": "673264f2-d2dd-410d-9ed9-d1bc67542984",
+  "node_id": 1,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Order Service.",
+  "service_name": "Order Service",
+  "response_time_ms": 430,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:25.632012"
+},
+{
+  "log_id": "f378c198-f693-4fb5-a1d5-5205ea1d6d73",
+  "node_id": 1,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Order Service.",
+  "service_name": "Order Service",
+  "response_time_ms": 403,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:26.632788"
+},
+{
+  "log_id": "aa6436e3-03f1-4b8a-be8b-cf565d735980",
+  "node_id": 2,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Notification Service.",
+  "service_name": "Notification Service",
+  "response_time_ms": 438,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:27.878804"
+},
+{
+  "log_id": "78ff52d1-1f54-4e16-9283-46cfa97b81ab",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:27.648309"
+},
+{
+  "log_id": "4eede180-3ae2-48e2-8a3d-7ed1375fcc14",
+  "node_id": 2,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Notification Service.",
+  "service_name": "Notification Service",
+  "response_time_ms": 410,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:28.879578"
+},
+{
+  "node_id": 1,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:28.630630"
+},
+{
+  "log_id": "32d04fbe-e3c0-4ec0-a7d2-54f991e5f6b0",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:28.650279"
+},
+{
+  "log_id": "4b22f86a-d14f-4004-91aa-1d754a9a9dab",
+  "node_id": 2,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Notification Service.",
+  "service_name": "Notification Service",
+  "response_time_ms": 485,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:29.880524"
+},
+{
+  "log_id": "c347b9f6-e248-4b8e-89eb-afed3ee777fa",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:29.650888"
+},
+{
+  "node_id": 3,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:30.452453"
+},
+{
+  "node_id": 3,
+  "message_type": "REGISTRATION",
+  "service_name": "Inventory Service",
+  "timestamp": "2024-11-18T01:09:30.453465"
+},
+{
+  "message_type": "REGISTRY",
+  "node_id": 3,
+  "service_name": "Inventory Service",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:30.456487"
+},
+{
+  "log_id": "72df0217-15e5-4d9c-80a7-74dd1683f636",
+  "node_id": 3,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Inventory Service.",
+  "service_name": "Inventory Service",
+  "response_time_ms": 452,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:30.456487"
+},
+{
+  "log_id": "dfe4de65-8c1e-48a8-b111-ac83f25973f8",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:30.881419"
+},
+{
+  "log_id": "39046005-25cf-4bd3-9aa3-1ca6ea9dc390",
+  "node_id": 1,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Order Service.",
+  "service_name": "Order Service",
+  "response_time_ms": 408,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:30.651856"
+},
+{
+  "log_id": "6911fdd3-1df0-4bb4-9308-0eb8efb13987",
+  "node_id": 3,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Inventory Service.",
+  "service_name": "Inventory Service",
+  "timestamp": "2024-11-18T01:09:31.457211"
+},
+{
+  "node_id": 2,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:31.878305"
+},
+{
+  "log_id": "1c3e865c-3d69-45dd-b9d1-3b79a6a79205",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:31.882367"
+},
+{
+  "log_id": "ad00c602-733f-4489-b42e-fdc36a3b2089",
+  "node_id": 1,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Order Service.",
+  "service_name": "Order Service",
+  "response_time_ms": 420,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:31.652628"
+},
+{
+  "log_id": "245b93b6-81e1-434c-8566-3f71e95a1d11",
+  "node_id": 3,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Inventory Service.",
+  "service_name": "Inventory Service",
+  "response_time_ms": 401,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:32.457832"
+},
+{
+  "log_id": "5779b8f8-d4a2-47f2-92ef-444634ed03cb",
+  "node_id": 2,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Notification Service.",
+  "service_name": "Notification Service",
+  "response_time_ms": 414,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:32.883445"
+},
+{
+  "log_id": "79492b97-030f-47d5-96ef-9e7c79e9187f",
+  "node_id": 1,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Order Service.",
+  "service_name": "Order Service",
+  "response_time_ms": 468,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:32.653504"
+},
+{
+  "log_id": "8095e276-c66e-4b7c-82c1-7913ae358a25",
+  "node_id": 3,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Inventory Service.",
+  "service_name": "Inventory Service",
+  "timestamp": "2024-11-18T01:09:33.458698"
+},
+{
+  "log_id": "3c42a785-f355-4715-aee6-e65b585840cc",
+  "node_id": 2,
+  "log_level": "ERROR",
+  "message_type": "LOG",
+  "message": "ERROR: Issue detected in Notification Service.",
+  "service_name": "Notification Service",
+  "error_details": {
+    "error_code": "500",
+    "error_message": "Internal server error"
+  },
+  "timestamp": "2024-11-18T01:09:33.884817"
+},
+{
+  "node_id": 1,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:33.631470"
+},
+{
+  "log_id": "31b01997-d718-4644-a38e-8f573522783b",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:33.654634"
+},
+{
+  "log_id": "2d70f556-02c4-4b08-80b1-7b98b08f18ec",
+  "node_id": 3,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Inventory Service.",
+  "service_name": "Inventory Service",
+  "response_time_ms": 467,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:34.460331"
+},
+{
+  "log_id": "6b1db550-bd99-4723-8ddf-9fd7c9e09f62",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:34.885897"
+},
+{
+  "log_id": "7f11aa10-652f-4b95-9496-3d67c6bac91b",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:34.656893"
+},
+{
+  "node_id": 3,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:35.456530"
+},
+{
+  "log_id": "9c4ae777-0077-46fc-87e5-9886921abc39",
+  "node_id": 3,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Inventory Service.",
+  "service_name": "Inventory Service",
+  "timestamp": "2024-11-18T01:09:35.461073"
+},
+{
+  "log_id": "ba35ca52-ed15-48c1-a695-3a8af617a6e6",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:35.657323"
+},
+{
+  "log_id": "c60635f7-160a-4d2a-8302-34a33f06b479",
+  "node_id": 2,
+  "log_level": "ERROR",
+  "message_type": "LOG",
+  "message": "ERROR: Issue detected in Notification Service.",
+  "service_name": "Notification Service",
+  "error_details": {
+    "error_code": "500",
+    "error_message": "Internal server error"
+  },
+  "timestamp": "2024-11-18T01:09:35.886422"
+},
+{
+  "log_id": "971cd7fa-def9-4269-8f03-a9f5ec7d00e7",
+  "node_id": 3,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Inventory Service.",
+  "service_name": "Inventory Service",
+  "response_time_ms": 417,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:36.464406"
+},
+{
+  "log_id": "fe49af23-0909-4314-bbea-a97150d54aee",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:36.658794"
+},
+{
+  "node_id": 2,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:36.879103"
+},
+{
+  "log_id": "b045db28-5a3e-4d3d-968c-81cf619081a3",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:36.887212"
+},
+{
+  "log_id": "018f4247-39cc-47e6-a2a6-4cdb81840f60",
+  "node_id": 3,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Inventory Service.",
+  "service_name": "Inventory Service",
+  "response_time_ms": 402,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:37.465050"
+},
+{
+  "log_id": "3eacc2fd-cd15-471a-a0e1-a50ef9cfe3c4",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:37.659727"
+},
+{
+  "log_id": "bb931280-530a-43e2-8ba5-4445c8735bd4",
+  "node_id": 2,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Notification Service.",
+  "service_name": "Notification Service",
+  "response_time_ms": 401,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:37.888196"
+},
+{
+  "log_id": "1f85a3cb-f9c7-4fcf-aa82-f452c50b7d3f",
+  "node_id": 3,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Inventory Service.",
+  "service_name": "Inventory Service",
+  "timestamp": "2024-11-18T01:09:38.465996"
+},
+{
+  "node_id": 1,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:38.632359"
+},
+{
+  "log_id": "5d24671e-ed9d-41c1-89b1-7d95440e646e",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:38.660540"
+},
+{
+  "log_id": "702a284d-05d4-4aba-9b6c-d951fcc97bd0",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:38.888978"
+},
+{
+  "log_id": "3e8d1aa0-09a4-4995-8343-e0af381756b8",
+  "node_id": 3,
+  "log_level": "ERROR",
+  "message_type": "LOG",
+  "message": "ERROR: Issue detected in Inventory Service.",
+  "service_name": "Inventory Service",
+  "error_details": {
+    "error_code": "500",
+    "error_message": "Internal server error"
+  },
+  "timestamp": "2024-11-18T01:09:39.466451"
+},
+{
+  "log_id": "7dfc2759-b630-4e10-b1fd-a37e55516de1",
+  "node_id": 1,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Order Service.",
+  "service_name": "Order Service",
+  "response_time_ms": 429,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:39.661242"
+},
+{
+  "log_id": "4af02191-b750-414c-b77b-aafbe9214239",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:39.889869"
+},
+{
+  "node_id": 3,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:40.457532"
+},
+{
+  "log_id": "681d5232-4390-4b6b-a90d-30389544d3c2",
+  "node_id": 3,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Inventory Service.",
+  "service_name": "Inventory Service",
+  "timestamp": "2024-11-18T01:09:40.471175"
+},
+{
+  "log_id": "88ca0dda-5c4d-4d5b-a332-ab6f1248b316",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:40.661920"
+},
+{
+  "log_id": "8f2b0fb1-1ac2-496b-bd76-46d83241a088",
+  "node_id": 2,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Notification Service.",
+  "service_name": "Notification Service",
+  "response_time_ms": 473,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:40.890778"
+},
+{
+  "log_id": "1501bb9d-79ce-42aa-9e7f-ea454e41b731",
+  "node_id": 3,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Inventory Service.",
+  "service_name": "Inventory Service",
+  "timestamp": "2024-11-18T01:09:41.472156"
+},
+{
+  "log_id": "55c8439a-0143-47e7-8cd8-0d1c5e2e40bd",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:41.662841"
+},
+{
+  "node_id": 2,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:41.879561"
+},
+{
+  "log_id": "9311a5c0-f0c3-44aa-9df3-154c963fdcb3",
+  "node_id": 2,
+  "log_level": "ERROR",
+  "message_type": "LOG",
+  "message": "ERROR: Issue detected in Notification Service.",
+  "service_name": "Notification Service",
+  "error_details": {
+    "error_code": "500",
+    "error_message": "Internal server error"
+  },
+  "timestamp": "2024-11-18T01:09:41.891208"
+},
+{
+  "log_id": "485a5caa-a33f-46d1-b71c-8cf2d2838c6e",
+  "node_id": 3,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Inventory Service.",
+  "service_name": "Inventory Service",
+  "response_time_ms": 475,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:42.472949"
+},
+{
+  "log_id": "4dfb2878-24a1-49c5-9c02-f1a7a0fa107c",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:42.663377"
+},
+{
+  "log_id": "477fef8d-b7f1-4800-8353-4387b78d53ee",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:42.892160"
+},
+{
+  "log_id": "22154f88-bcd9-4a32-a48e-cac4249579f2",
+  "node_id": 3,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Inventory Service.",
+  "service_name": "Inventory Service",
+  "response_time_ms": 493,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:43.473881"
+},
+{
+  "log_id": "6a888174-c59b-4db2-b9a3-ef4897b59a23",
+  "node_id": 3,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Inventory Service.",
+  "service_name": "Inventory Service",
+  "response_time_ms": 419,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:44.474857"
+},
+{
+  "node_id": 1,
+  "message_type": "HEARTBEAT",
+  "status": "UP",
+  "timestamp": "2024-11-18T01:09:43.633245"
+},
+{
+  "log_id": "8bbed1b5-b7a7-4a84-b858-c8295055d450",
+  "node_id": 1,
+  "log_level": "WARN",
+  "message_type": "LOG",
+  "message": "WARN: Response time high for Order Service.",
+  "service_name": "Order Service",
+  "response_time_ms": 466,
+  "threshold_limit_ms": 300,
+  "timestamp": "2024-11-18T01:09:43.664391"
+},
+{
+  "log_id": "dcce554f-bb30-4eb8-bfaf-761c0f7c5ace",
+  "node_id": 2,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Notification Service.",
+  "service_name": "Notification Service",
+  "timestamp": "2024-11-18T01:09:43.892652"
+},
+{
+  "log_id": "a50916b1-6976-4068-ae19-74d2b40e4b9d",
+  "node_id": 1,
+  "log_level": "INFO",
+  "message_type": "LOG",
+  "message": "INFO: General operation log for Order Service.",
+  "service_name": "Order Service",
+  "timestamp": "2024-11-18T01:09:44.664946"
+}
+]
